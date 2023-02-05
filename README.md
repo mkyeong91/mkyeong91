@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm MK 👋
+
+I am a C++ hardware test developer, currently pursuing my MSc in deep learning. Enjoy reading & watching movies.
 
 <!--
 **mkyeong91/mkyeong91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
