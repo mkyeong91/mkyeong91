@@ -21,11 +21,6 @@ You can check out some of my work on Instagram: [@yeong.calligraphy](https://www
 
 ---
 
-## 📫 Find Me Around
-- Email: **mkdeeplearning@gmail.com**  
-
----
-
 ✨ *Always curious, always building, always learning.*
 
 <!--
