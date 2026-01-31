@@ -23,6 +23,11 @@ You can check out some of my work on Instagram: [@yeong.calligraphy](https://www
 
 ✨ *Always curious, always building, always learning.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ming-keat-yeong-52aa6772/)
+![Python](https://img.shields.io/badge/Python-Expert-green?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C++-Advanced-orange?style=flat&logo=cplusplus)
+
+
 <!--
 **mkyeong91/mkyeong91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
